@@ -1,6 +1,8 @@
 # YT-Viewer-bot
 Automate viewing videos
 
-Prerequisites:
+**Prerequisites:**
+
 Python3
+
 pip3 install selenium
